@@ -1,4 +1,12 @@
-### Hi there 👋
+## ✨Hiya! Maxine here!✨
+
+### I'm a development student from the Netherlands.
+### Currently I am focusing on learning C++ alongside my college projects.
+### In my spare time I ejoy working on 3D art and making games.
+### Hopefully one day, I'll be able to develop 3D art tools for others to use!
+
+### [Twitter](https://twitter.com/MaxineCodes)
+### [Artstation](https://www.artstation.com/maxine3d)
 
 <!--
 **MaxineCodes/MaxineCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
