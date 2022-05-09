@@ -2,7 +2,7 @@
 
  I'm a development student from the Netherlands.
  Currently I am focusing on learning C++ & Python alongside my 3D art projects.
- My aim is to learn the technology used in VFX/Games and use my mix of artistic and technical skills to become a TD or TA and be able to develop 3D art tools for others to use!
+ My aim is to learn the technology used in VFX/Games and use my mix of artistic and technical skills to become a TD or TA and be able to develop 3D art & production tools for others to use!
 
 
  Languages: C++, C#, Python, Java
