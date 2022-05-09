@@ -8,6 +8,7 @@
  Languages: C++, C#, Python, Java
  
  DCC Applications: Maya, Zbrush, Houdini, Substance Suite, Blender, Photoshop
+ 
  Libs and API's: OpenGL, DX11, SFML
 
 #### [Twitter](https://twitter.com/MaxineCodes) || [Artstation](https://www.artstation.com/maxine3d)
