@@ -1,6 +1,6 @@
 ### ✨Hiya! Maxine here!✨
 
- I'm a developer & 3D Character Artist from the Netherlands.
+ I'm a Pipeline TD & 3D Character Artist from the Netherlands.
  Currently I am focusing on learning C++ & Python alongside my 3D art projects.
  My aim is to better learn the technology used in VFX/Games and use my mix of artistic and technical skills as a TD and to develop 3D art & production tools for others to use!
 
