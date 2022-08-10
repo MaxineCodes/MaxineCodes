@@ -9,6 +9,6 @@
  
  DCC Applications: Maya, Zbrush, Houdini, Substance Suite, Blender, Photoshop
  
- Libs and API's: OpenGL, DX11, SFML
+ Libs and API's: OpenGL, DX11, SFML, Maya API
 
 #### [Twitter](https://twitter.com/MaxineCodes) || [Artstation](https://www.artstation.com/maxine3d)
