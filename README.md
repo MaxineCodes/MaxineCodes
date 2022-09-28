@@ -11,3 +11,5 @@
  DCC Applications: Maya, Zbrush, Houdini, Substance Suite, Blender, Photoshop
 
 #### [Twitter](https://twitter.com/MaxineCodes) || [Artstation](https://www.artstation.com/maxine3d)
+
+![result_16-9-2022](https://github.com/MaxineCodes/SimpleRaytracing/blob/main/result_28-9-2022.png)
