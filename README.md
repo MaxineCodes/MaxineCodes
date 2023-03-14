@@ -1,4 +1,5 @@
-### ✨Hiya! Maxine here!✨
+█░█ █▀▀ █░ █░ █▀█ █  
+█▀█ ██▄ █▄ █▄ █▄█ ▄
 
  I'm a Pipeline TD & 3D Character Artist from the Netherlands.
  Currently I am focusing on learning C++ & Python for VFX pipeline development.
@@ -10,17 +11,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxineCodes&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
- 
- DCC Applications: Maya, Zbrush, Houdini, Substance Suite, Blender, Photoshop
 
-Things I have done professionally:
+**Things I have done professionally:**
 - 🏃🏼 Animation pipeline.
 - 📸 Setting up Shotgrid for animation film production.
 - 🛠 Tool development in Autodesk Maya.
 - 📖 Writing and maintaining documentation.
 - 🎨 3D Character Art for games.
 
-Things I dabble in:
+　
+
+**Things I dabble in:**
 - 📐 CPU Raytracing algorithms.
 - ⚙️ Attempting to understand game engine architecture.
 - 🌊 Houdini simulation & procedural modelling.
