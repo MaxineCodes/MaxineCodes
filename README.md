@@ -13,10 +13,18 @@
  
  DCC Applications: Maya, Zbrush, Houdini, Substance Suite, Blender, Photoshop
 
-Little list of things I have done:
+Things I have done professionally:
 - 🏃🏼 Animation pipeline.
 - 📸 Setting up Shotgrid for animation film production.
 - 🛠 Tool development in Autodesk Maya.
+- 📖 Writing and maintaining documentation.
+- 🎨 3D Character Art for games.
+
+Things I dabble in:
+- 📐 CPU Raytracing algorithms.
+- ⚙️ Attempting to understand game engine architecture.
+- 🌊 Houdini simulation & procedural modelling.
+- 🎮 Small personal game dev projects.
 
 ---
 
