@@ -1,5 +1,5 @@
-**█░█ █▀▀ █░ █░ █▀█ █**  
-**█▀█ ██▄ █▄ █▄ █▄█ ▄**
+█░█ █▀▀ █░ █░ █▀█ █      █▄░█ █ █▀▀ █▀▀   ▀█▀ █▀█   █▀▄▀█ █▀▀ █▀▀ ▀█▀   █▄█ █▀█ █░█     
+█▀█ ██▄ █▄ █▄ █▄█ ▄      █░▀█ █ █▄▄ ██▄   ░█░ █▄█   █░▀░█ ██▄ ██▄ ░█░   ░█░ █▄█ █▄█
 
  I'm a Pipeline Technical Director from the Netherlands.  
  Currently I am focusing on learning C++ & Python for VFX pipeline development.
