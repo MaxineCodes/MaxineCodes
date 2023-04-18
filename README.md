@@ -26,6 +26,11 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 - 🌊 Houdini simulation & procedural modelling.
 - 🎮 Small personal game dev projects.
 
+**Projects todo list:**
+- 🟣 Raycaster graphics/game engine. (Wolfenstein style.)
+- 🟣 Simple game for MSDOS.
+- 🟣 Small multi-platform graphics engine.
+
 ---
 
 #### [Twitter](https://twitter.com/MaxineCodes) || [Artstation](https://www.artstation.com/maxine3d) || [LinkedIn](https://www.linkedin.com/in/maxinemeijboom/)
