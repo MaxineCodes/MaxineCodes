@@ -18,7 +18,7 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 - 🛠 Tool development in Autodesk Maya.  
 - 📖 Writing and maintaining documentation.  
 - 🎨 3D Character Art for games.  
-　  
+
 **Things I dabble in:**
 - 📐 CPU Raytracing algorithms.
 - ⚙️ Attempting to understand game engine architecture.
