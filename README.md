@@ -8,7 +8,7 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
-### 「 once you run out of memory, the real programming starts 」
+### 「 once you run out of memory, the real programming begins 」
 
 ---
 
