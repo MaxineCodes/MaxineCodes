@@ -1,10 +1,14 @@
 █░█ █▀▀ █░ █░ █▀█ █      █▄░█ █ █▀▀ █▀▀   ▀█▀ █▀█   █▀▄▀█ █▀▀ █▀▀ ▀█▀   █▄█ █▀█ █░█     
 █▀█ ██▄ █▄ █▄ █▄█ ▄      █░▀█ █ █▄▄ ██▄   ░█░ █▄█   █░▀░█ ██▄ ██▄ ░█░   ░█░ █▄█ █▄█
 
-I'm a developer from the Netherlands.  
+'m a developer from the Netherlands.  
 I am focused mostly on C++ & Python for animation/film pipeline development.
 In my free time I like to work on 3D art, graphics coding, DCC scripts and making silly games!
 My aim is to better learn the technology used in VFX/Games and apply my mix of artistic and technical skills as a TD/tech artist in production, and to develop 3D art & production tools for others to use!
+
+---
+
+### 「 once you run out of memory, the real programming starts 」
 
 ---
 
