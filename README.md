@@ -16,24 +16,26 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
-**Things I have done professionally:**  
-- 🏃🏼 Animation pipeline.  
-- 📸 Setting up Shotgrid for animation film production.  
-- 🛠 Tool development in Autodesk Maya.  
-- 📖 Writing and maintaining documentation.  
-- 🎨 3D Character Art for games.  
-
 **Things I dabble in:**
-- 📐 CPU Raytracing algorithms.
-- ⚙️ Attempting to understand game engine architecture.
+- 📐 Realtime 3D graphics programming in C++ and JS.
+- ⚙️ Attempting to understand game-engine architecture.
 - 🌊 Houdini simulation & procedural modelling.
 - 🎮 Small personal game dev projects.
 
-**Projects todo list:**
-- 🟣 Raycaster graphics/game engine. (Wolfenstein style.)
-- 🟣 Simple game for MSDOS.
-- 🟣 Small multi-platform graphics engine.
+**Things I have done professionally:**  
+- 🏃🏼 Animation pipeline development.  
+- 📸 Setting up Shotgrid for animation film production.  
+- 🛠 Python/C++ tool development for DCC such as Autodesk Maya.  
+- 📖 Writing and maintaining documentation.  
+- 🎨 3D Character Art for games.
+- 📈 Optimize Unity3D graphics pipeline for WebGL/Mobile.
+- 🔮 GLSL Unity Shaders
 
+**What I wish to learn and grow in:**
+- 📊 Graphics programming.
+- 🪜 C++ project setup and build systems. (It is a whole rabbit hole..)
+- 🧮 Mathematics.
+- And everything else, because learning never finishes.
 
 ---
 
