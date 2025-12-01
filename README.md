@@ -38,4 +38,4 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
-#### [Twitter](https://twitter.com/MaxineCodes) || [Artstation](https://www.artstation.com/maxine3d) || [LinkedIn](https://www.linkedin.com/in/maxinemeijboom/)
+#### [Bluesky](https://bsky.app/profile/maxinecodes.bsky.social) || [Artstation](https://www.artstation.com/maxine3d) || [LinkedIn](https://www.linkedin.com/in/maxinemeijboom/)
