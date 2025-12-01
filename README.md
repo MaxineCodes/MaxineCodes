@@ -11,11 +11,11 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
-## Languages:
-C++, C#
-Python, PYMEL/MEL, VEX
-HLSL, GLSL
-Dutch, English, 中文
+**Languages:**
+- C++, C#
+- Python, PYMEL/MEL, VEX
+- HLSL, GLSL
+- Dutch, English, 中文
 
 ---
 
