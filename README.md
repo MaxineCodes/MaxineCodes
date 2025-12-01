@@ -11,6 +11,14 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
+## Languages:
+C++, C#
+Python, PYMEL/MEL, VEX
+HLSL, GLSL
+Dutch, English, 中文
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxineCodes&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
