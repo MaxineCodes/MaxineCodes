@@ -37,6 +37,14 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ---
 
+## Please check out:
+
+[Mocha, a realtime opengl rendering engine.](https://github.com/MaxineCodes/Mocha)    
+  
+[Bubbles, toy raytracer.](https://github.com/MaxineCodes/Bubbles) 
+
+---
+
 ### 「 once you run out of memory, the real programming begins 」
 
 ---
