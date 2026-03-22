@@ -25,12 +25,15 @@
 ```
 
 ## About me
-
-- 🌱 Software Developer & Technical Artist  
-- 🌱 Currently studying `Software Engineering` at `Hanze University of Applied Science`  
-- 🌱 Obsessed with 3D graphics, 3D art, 
-- 🌱 In my free time I like to work on 3D art, graphics coding, DCC scripts and making games  
-- 🌱 My aim is to better learn the technology used in VFX/Games and apply my mix of artistic and technical skills as a TD/tech artist in production, and to develop 3D art & production tools for others to use!
+🌱 Software Developer & Technical Artist
+  
+🌱 Currently studying `Software Engineering` at `Hanze University of Applied Science`  
+  
+🌱 Obsessed with 3D graphics, 3D art
+  
+🌱 In my free time I like to work on 3D art, graphics coding, DCC scripts and making games  
+  
+My aim is to better learn the technology used in VFX/Games and apply my mix of artistic and technical skills as a TD/tech artist in production, and to develop 3D art & production tools for others to use!
 
 ---
 
