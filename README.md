@@ -39,9 +39,9 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 
 ## Please check out:
 
-[Mocha, a realtime opengl rendering engine.](https://github.com/MaxineCodes/Mocha)    
+☕[Mocha, a realtime opengl rendering engine.](https://github.com/MaxineCodes/Mocha)    
   
-[Bubbles, toy raytracer.](https://github.com/MaxineCodes/Bubbles) 
+🫧[Bubbles, toy raytracer.](https://github.com/MaxineCodes/Bubbles) 
 
 ---
 
