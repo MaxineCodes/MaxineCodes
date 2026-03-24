@@ -27,7 +27,7 @@
 ## About me
 🌱 Software Developer & Technical Artist
   
-🌱 Currently studying `Software Engineering` at `Hanze University of Applied Science`  
+🌱 Currently studying `Major: Software Engineering` at `Hanze University of Applied Science`  
   
 🌱 Obsessed with 3D graphics, 3D art
   
