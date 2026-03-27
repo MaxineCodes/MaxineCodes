@@ -52,13 +52,13 @@ My aim is to better learn the technology used in VFX/Games and apply my mix of a
 ---
 | **Things I dabble in:**                                | **Things I have done professionally:**                         | **What I wish to learn and grow in:**                   |
 |--------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|
-| - 📐 Realtime 3D graphics programming in C++ and JS.    | - 🏃🏼 Animation pipeline development.                           | - 📊 Graphics programming.                               |
-| - ⚙️ Attempting to understand game-engine architecture. | - 📸 Setting up Shotgrid for animation film production.         | - 🪜 C++ project setup and build systems.                |
-| - 🌊 Houdini simulation & procedural modelling.         | - 🛠 Python/C++ tool development for DCC such as Autodesk Maya. | - 🧮 Mathematics.                                        |
-| - 🎮 Small personal game dev projects.                  | - 📖 Writing and maintaining documentation.                     | - And everything else, because learning never finishes. |
-|                                                        | - 🎨 3D Character Art for games.                                |                                                         |
-|                                                        | - 📈 Optimize Unity3D graphics pipeline for WebGL/Mobile.       |                                                         |
-|                                                        | - 🔮 GLSL Unity Shaders                                         |                                                         |
+| 📐 Realtime 3D graphics programming in C++ and JS.    | 🏃🏼 Animation pipeline development.                           | 📊 Graphics programming.                               |
+| ⚙️ Attempting to understand game-engine architecture. | 📸 Setting up Shotgrid for animation film production.         | 🪜 C++ project setup and build systems.                |
+| 🌊 Houdini simulation & procedural modelling.         | 🛠 Python/C++ tool development for DCC such as Autodesk Maya. | 🧮 Mathematics.                                        |
+| 🎮 Small personal game dev projects.                  | 📖 Writing and maintaining documentation.                     | And everything else, because learning never finishes. |
+|                                                        | 🎨 3D Character Art for games.                                |                                                         |
+|                                                        | 📈 Optimize Unity3D graphics pipeline for WebGL/Mobile.       |                                                         |
+|                                                        | 🔮 GLSL Unity Shaders                                         |                                                         |
 
 ---
 
